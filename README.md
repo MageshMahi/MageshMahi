@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ Magesh
+- 👋 Hello, It's me @Magesh
 - 👀 I’m interested in VBA (Visual basic application), Tableau (Data science),my sql
 - 🌱 I’m currently learning MBA Finance in University of madras.
 - 💞️ I’m looking to collaborate on ...
