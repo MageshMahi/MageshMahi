@@ -1,8 +1,10 @@
-- 👋 Hello, It's me Magesh
-- 👀 I’m interested in VBA (Visual basic application), Tableau (Data science),my sql
-- 🌱 I’m currently learning MBA Finance in University of madras.
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me by below ways
+ <h4 align = "center"> 👋 Hello World, I’m @Magesh </h4>
+ 
+- 🌱 Well versed VBA (Visual basic application), Tableau (Data Visualization),Python.
+- 🏫 I’m Graduated MBA & ICWA (Intermediate) with Finance background.
+- 💞️ Love to collaberate with the people working in coding ...
+ 
+### 📫 Find me elsewhere
 - 🌍 https://magesht.blogspot.com/
 - 📞 +91 98844-12161
 - ✉ mahigold1621@gmail.com
