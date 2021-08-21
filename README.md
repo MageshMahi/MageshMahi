@@ -6,7 +6,6 @@
  
 ### 📫 Find me elsewhere
 - 🌍 https://magesht.blogspot.com/
-- 📞 +91 98844-12161
 - ✉ mahigold1621@gmail.com
 
 
