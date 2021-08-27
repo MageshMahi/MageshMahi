@@ -1,6 +1,6 @@
  <h4 align = "center"> 👋 Hello World, I’m @Magesh </h4>
  
-- 🌱 Well versed VBA (Visual basic application), Tableau (Data Visualization),Python.
+- 🌱 Well versed VBA (Visual basic application), Tableau (Data Visualization).
 - 🏫 I’m Graduated MBA & ICWA (Intermediate) with Finance background.
 - 💞️ Love to collaberate with the people working in coding ...
  
